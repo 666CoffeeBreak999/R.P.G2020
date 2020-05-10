@@ -3,5 +3,11 @@
 var $plugins =
 [
 {"name":"Community_Basic","status":true,"description":"基本的なパラメーターを設定するプラグインです。","parameters":{"cacheLimit":"20","screenWidth":"816","screenHeight":"624","changeWindowWidthTo":"","changeWindowHeightTo":"","renderingMode":"auto","alwaysDash":"off"}},
-{"name":"MadeWithMv","status":true,"description":"メイン画面へ進む前に、\"Made with MV\"のスプラッシュ画面もしくはカスタマイズされたスプラッシュ画面を表示します。","parameters":{"Show Made With MV":"true","Made with MV Image":"MadeWithMv","Show Custom Splash":"false","Custom Image":"","Fade Out Time":"120","Fade In Time":"120","Wait Time":"160"}}
+{"name":"MadeWithMv","status":true,"description":"メイン画面へ進む前に、\"Made with MV\"のスプラッシュ画面もしくはカスタマイズされたスプラッシュ画面を表示します。","parameters":{"Show Made With MV":"true","Made with MV Image":"MadeWithMv","Show Custom Splash":"false","Custom Image":"","Fade Out Time":"120","Fade In Time":"120","Wait Time":"160"}},
+{"name":"特定のアイテムと交換を行うショップ","status":true,"description":"メダルや貝殻など、特定のアイテムをお金の代わりに使えるショップを作成することができます","parameters":{"tradeShopSwitchId":"13","tradeItemId":"218","tradeItemTanni":"個"}},
+{"name":"SlotMachine","status":true,"description":"Slot Machine scene","parameters":{"Variable ID":"11","Help Text":"カーソルキーの上でベット、カーソルキーの下でスタート","Won Text":"おめでとうございます！Win Coin枚獲得です！","Lost Text":"残念でした。","Replay Text":"もう一度やりますか？","Coin Full Text":"コイン枚数が制限に達しました。","Bet Text":"ベット","Spin Text":"スピン","Yes Text":"はい","No Text":"いいえ"}},
+{"name":"TouchUI","status":true,"description":"UIをタッチ操作に適したものへ変更します。","parameters":{"Menu Command Text":"メニュー","Previous Command Text":"前","Next Command Text":"次"}},
+{"name":"TMBackButton","status":true,"description":"メニューシーンにタップ操作用の戻るボタンを表示します。","parameters":{"buttonImage":"backButton","sceneMenuX":"100","sceneMenuY":"400","sceneItemX":"600","sceneItemY":"50","sceneSkillX":"140","sceneSkillY":"250","sceneEquipX":"200","sceneEquipY":"100","sceneStatusX":"400","sceneStatusY":"30","sceneOptionsX":"380","sceneOptionsY":"400","sceneSaveX":"500","sceneSaveY":"14","sceneLoadX":"500","sceneLoadY":"14","sceneGameEndX":"0","sceneGameEndY":"0","sceneShopX":"600","sceneShopY":"20","sceneNameX":"20","sceneNameY":"200"}},
+{"name":"歩数減算","status":true,"description":"歩数を調整するプラグインです","parameters":{}},
+{"name":"TitleCommandPosition","status":true,"description":"タイトルコマンドウィンドウの位置を変更します。","parameters":{"Offset X":"-200","Offset Y":"0","Width":"240","Background":"0"}}
 ];
