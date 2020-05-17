@@ -108,6 +108,6 @@ null,
 {"id":106,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
 {"id":107,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
 {"id":108,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
-{"id":109,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
-{"id":110,"battlerName":"","characterIndex":6,"characterName":"SF_Chest","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+{"id":109,"battlerName":"","characterIndex":1,"characterName":"Vehicle","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[{"code":43,"dataId":157,"value":1}],"initialLevel":1,"maxLevel":99,"name":"船","nickname":"","note":"<Initial Level: レベル>","profile":""},
+{"id":110,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
 ]
