@@ -1,6 +1,6 @@
 [
 null,
-{"id":1,"expanded":true,"name":"テスト平原","order":12,"parentId":4,"scrollX":1216.5,"scrollY":847.5},
+{"id":1,"expanded":true,"name":"テスト平原","order":12,"parentId":4,"scrollX":1216.5,"scrollY":1422},
 {"id":2,"expanded":false,"name":"テストの町","order":13,"parentId":1,"scrollX":1228.5,"scrollY":678},
 {"id":3,"expanded":true,"name":"宿屋＆酒場","order":14,"parentId":2,"scrollX":1228.5,"scrollY":678},
 {"id":4,"expanded":true,"name":"地上界","order":11,"parentId":0,"scrollX":1216.5,"scrollY":714},
