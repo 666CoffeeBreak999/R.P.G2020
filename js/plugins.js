@@ -21,5 +21,5 @@ var $plugins =
 {"name":"YEP_EventChasePlayer","status":true,"description":"v1.02 プレイヤーが特定のイベントに近づくと、イベントがプレイヤーを追いかけたりプレイヤーから逃げます","parameters":{"Sight Lock":"300","See Player":"true","Alert Timer":"120","Alert Balloon":"1","Alert Sound":"Attack1","Alert Common Event":"0","Return After":"true","Return Wait":"180"}},
 {"name":"PTメンバー自動入れ替えプラグイン","status":true,"description":"戦闘不能アクター自動入れ替えさんPlus","parameters":{"■ 基本設定":"","Save sort order":"ON","Disable switch ID":"0","■ こだわり設定":"","Can replace leader":"ON","Wait: Dead":"15","Wait: Replace":"30"}},
 {"name":"OverpassTile","status":true,"description":"キャラクターが下をくぐり抜けられる橋の設定です。","parameters":{"Overpass Region ID":"255","Gateway Region ID":"254"}},
-{"name":"MKR_LevelUpMessageEx","status":false,"description":"(v1.0.2) レベルアップ時にステータスの変化を\nウィンドウに表示します。","parameters":{"Default_Status_Message":"ON","Default_Visible_Hp":"ON","Default_Visible_Mp":"ON","Default_Visible_Atk":"ON","Default_Visible_Grd":"ON","Default_Visible_mAtk":"ON","Default_Visible_mGrd":"ON","Default_Visible_Spd":"ON","Default_Visible_Luk":"ON"}}
+{"name":"MapNameinSaveData","status":true,"description":"セーブデータ上に現在マップ名を載せるプラグイン","parameters":{}}
 ];
